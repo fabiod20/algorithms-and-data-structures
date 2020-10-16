@@ -1,2 +1,2 @@
 # hash-table-analysis
- Performance Analysis of different kinds of hashtable.
+ Performance analysis of different kinds of hashtable.
