@@ -6,4 +6,4 @@ The aim of the project is to analyze the performance of different kinds of hash 
 
 ## Project
 - [implementation](https://github.com/fabiod20/algorithms-and-data-structures/tree/master/Java) directory contains different kinds of hash tables written in Java.
-- [analysis](https://github.com/fabiod20/algorithms-and-data-structures/tree/master/Python) directory contains the analysis of the hash tables performance.
+- [analysis](https://github.com/fabiod20/algorithms-and-data-structures/tree/master/Python) directory contains the analysis of the hash tables performance, performed using **pandas** and **matplotlib**.
