@@ -1,5 +1,5 @@
 # Hash Table Analysis
-This repository contains the final project of the **Algorithms and Data Structures** course (AY 19/20) at *University of Naples Federico II*.
+This repository contains the final project of the **Algorithms and Data Structures** course (AY 19/20) at the *University of Naples Federico II*.
 
 ## Assignment
 The aim of the project is to analyze the performance of different kinds of hash tables in term of execution time for different operations (insert, search, delete)
